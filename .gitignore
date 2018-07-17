@@ -10,3 +10,5 @@ rel/example_project
 .rebar
 *.swp
 _build
+tests
+log
